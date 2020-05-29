@@ -1,0 +1,13 @@
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\bin\Debug\netcoreapp3.1\AulaPOOCPF.exe
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\bin\Debug\netcoreapp3.1\AulaPOOCPF.deps.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\bin\Debug\netcoreapp3.1\AulaPOOCPF.runtimeconfig.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\bin\Debug\netcoreapp3.1\AulaPOOCPF.runtimeconfig.dev.json
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\bin\Debug\netcoreapp3.1\AulaPOOCPF.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\bin\Debug\netcoreapp3.1\AulaPOOCPF.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\obj\Debug\netcoreapp3.1\AulaPOOCPF.csprojAssemblyReference.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\obj\Debug\netcoreapp3.1\AulaPOOCPF.csproj.CoreCompileInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\obj\Debug\netcoreapp3.1\AulaPOOCPF.AssemblyInfoInputs.cache
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\obj\Debug\netcoreapp3.1\AulaPOOCPF.AssemblyInfo.cs
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\obj\Debug\netcoreapp3.1\AulaPOOCPF.dll
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\obj\Debug\netcoreapp3.1\AulaPOOCPF.pdb
+C:\Users\thiag_000\Projetos\C#\AulaPOOCPF\obj\Debug\netcoreapp3.1\AulaPOOCPF.genruntimeconfig.cache
